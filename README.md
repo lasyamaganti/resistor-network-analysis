@@ -15,6 +15,10 @@ A computational project analyzing **resistive grid networks using linear algebra
 
 **Linear Algebra • Circuit Analysis • LU Factorization • Graph Laplacians • Numerical Methods • KCL • Effective Resistance**
 
+## Project Report
+
+For a detailed explanation of the methodology, mathematical formulation, and results, see the [Resistor Network Analysis Report](./Resistor_Network_Analysis_Report.pdf).
+
 ## What I Learned
 
 This project strengthened my understanding of how **physical systems can be represented and solved computationally using matrix methods**. I gained experience connecting circuit theory with linear algebra, implementing numerical solvers, and analyzing how network properties change with resistance and grid size.
